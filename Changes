@@ -1,5 +1,9 @@
 Revision history for MooseX-Object-Pluggable
 
+0.0014    2015-01-18 20:38:41Z
+          - add a test that runs `moose-outdated`, to make it more obvious
+            when there are installation conflicts
+
 0.0013    2014-02-02 08:53:34Z
           - line numbers in shipped code are now almost the same (within 3) as
             the repository source, for easier debugging
